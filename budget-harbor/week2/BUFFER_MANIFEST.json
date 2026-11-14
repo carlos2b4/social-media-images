@@ -1,0 +1,350 @@
+{
+  "status": "christmas-drop-scheduled-week2-drafts-ready",
+  "updatedAt": "2026-11-14T08:50:00-05:00",
+  "timezone": "America/New_York",
+  "organizationId": "6ae348dd6af163dd6f46b564",
+  "channels": {
+    "instagram": "6aed2375e29c69a1717988c4",
+    "tiktok": "6ae34a8b2f1f5ed6480e8fc7",
+    "linkedin": "6ae349cf2f1f5ed6480e87ff",
+    "linkedInTouched": false,
+    "linkedInNote": "Never post Budget Harbor Co to LinkedIn. Do not query or edit that channel for this work."
+  },
+  "slotCounts": {
+    "limitPerChannel": 10,
+    "beforeThisDrop": {
+      "instagram": 7,
+      "tiktok": 7,
+      "freeEach": 3
+    },
+    "afterThisDrop": {
+      "instagram": 9,
+      "tiktok": 9,
+      "freeEach": 1
+    },
+    "note": "Week 2 (7 posts x 2 channels) must wait until week-1 posts publish and slots free up. Recheck with list_posts before scheduling."
+  },
+  "github": {
+    "repo": "carlos2b4/social-media-images",
+    "branch": "budget-harbor-week2",
+    "commitSha": "3ef4a4e8aa2bfa3ea968d4cc4011315f801db891",
+    "notMergedToMain": true,
+    "baseUrl": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2",
+    "curlVerify": "Raw SHA URLs returned HTTP 200 image/png; sizes matched local files (e.g. drop_sun15 IG 01.png = 28608 bytes)."
+  },
+  "scheduledChristmasDrop": [
+    {
+      "day": "Sun Nov 15",
+      "topic": "Christmas Budget & Gift Tracker $3.99 \u2014 January statement hook",
+      "folder": "drop_sun15_january_statement",
+      "platform": "instagram",
+      "channelId": "6aed2375e29c69a1717988c4",
+      "id": "6af866bbe5a113497a8757cb",
+      "dueAtRequested": "2026-11-15T12:00:00-05:00",
+      "dueAtReturned": "2026-11-15T17:00:00.000Z",
+      "dueAtET": "2026-11-15 12:00 PM ET",
+      "status": "scheduled",
+      "error": null,
+      "schedulingType": "automatic",
+      "shareMode": "customScheduled",
+      "format": "carousel",
+      "assetCount": 6,
+      "assetDims": "1080x1350",
+      "verifiedWith": "get_post"
+    },
+    {
+      "day": "Sun Nov 15",
+      "topic": "Christmas Budget & Gift Tracker $3.99 \u2014 January statement hook",
+      "folder": "drop_sun15_january_statement",
+      "platform": "tiktok",
+      "channelId": "6ae34a8b2f1f5ed6480e8fc7",
+      "id": "6af866af76c23bf1c71b7258",
+      "dueAtRequested": "2026-11-15T12:00:00-05:00",
+      "dueAtReturned": "2026-11-15T17:00:00.000Z",
+      "dueAtET": "2026-11-15 12:00 PM ET",
+      "status": "scheduled",
+      "error": null,
+      "schedulingType": "automatic",
+      "shareMode": "customScheduled",
+      "format": "carousel",
+      "assetCount": 6,
+      "assetDims": "1080x1920",
+      "verifiedWith": "get_post"
+    },
+    {
+      "day": "Tue Nov 17",
+      "topic": "Christmas Budget & Gift Tracker $3.99 \u2014 who's still on your list",
+      "folder": "drop_tue17_whos_on_your_list",
+      "platform": "instagram",
+      "channelId": "6aed2375e29c69a1717988c4",
+      "id": "6af866bf76c23bf1c71b74d7",
+      "dueAtRequested": "2026-11-17T18:00:00-05:00",
+      "dueAtReturned": "2026-11-17T23:00:00.000Z",
+      "dueAtET": "2026-11-17 6:00 PM ET",
+      "status": "scheduled",
+      "error": null,
+      "schedulingType": "automatic",
+      "shareMode": "customScheduled",
+      "format": "carousel",
+      "assetCount": 6,
+      "assetDims": "1080x1350",
+      "verifiedWith": "get_post",
+      "note": "Evening slot; week 1 Subscription Tracker remains at 12:00 PM ET the same day."
+    },
+    {
+      "day": "Tue Nov 17",
+      "topic": "Christmas Budget & Gift Tracker $3.99 \u2014 who's still on your list",
+      "folder": "drop_tue17_whos_on_your_list",
+      "platform": "tiktok",
+      "channelId": "6ae34a8b2f1f5ed6480e8fc7",
+      "id": "6af866c276c23bf1c71b75de",
+      "dueAtRequested": "2026-11-17T18:00:00-05:00",
+      "dueAtReturned": "2026-11-17T23:00:00.000Z",
+      "dueAtET": "2026-11-17 6:00 PM ET",
+      "status": "scheduled",
+      "error": null,
+      "schedulingType": "automatic",
+      "shareMode": "customScheduled",
+      "format": "carousel",
+      "assetCount": 6,
+      "assetDims": "1080x1920",
+      "verifiedWith": "get_post",
+      "note": "Evening slot; week 1 Subscription Tracker remains at 12:00 PM ET the same day."
+    }
+  ],
+  "week2Unscheduled": [
+    {
+      "day": "Mon Nov 23",
+      "topic": "Christmas Budget & Gift Tracker $3.99 \u2014 plan before you buy",
+      "folder": "01_mon23_plan_before_you_buy",
+      "dueAtRequested": "2026-11-23T12:00:00-05:00",
+      "dueAtET": "2026-11-23 12:00 PM ET",
+      "product": "Christmas Budget & Gift Tracker",
+      "price": "$3.99",
+      "listing": "https://www.etsy.com/listing/4617048643",
+      "hook": "Plan the gifts before you buy.",
+      "assetCount": 6,
+      "scheduleNow": false,
+      "captionPath": "01_mon23_plan_before_you_buy/caption.txt",
+      "pin": {
+        "image": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/01_mon23_plan_before_you_buy/pin/pin.png",
+        "copyPath": "01_mon23_plan_before_you_buy/pin/copy.txt"
+      },
+      "instagramAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/01_mon23_plan_before_you_buy/ig/0N.png",
+      "tiktokAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/01_mon23_plan_before_you_buy/tt/0N.png",
+      "caption": "Plan the gifts before you buy.\n\nThe Christmas Budget & Gift Tracker from Budget Harbor Co keeps the whole holiday in one spreadsheet: a budget vs. spent dashboard with a live countdown, a people tab, a gift list, a holiday expenses log, a checklist, and a card list.\n\nSet a total, split it across 10 categories, and see what's left as you go. Change the year to reuse it next Christmas.\n\n$3.99. Google Sheets + Excel. No macros. Instant download. Example data included.\n\nLink in bio, or search Budget Harbor Co on Etsy.\n\n#BudgetHarborCo #ChristmasBudget #HolidayBudget #GiftTracker #GoogleSheets #ExcelTemplate #ChristmasPlanner #EtsyShop"
+    },
+    {
+      "day": "Tue Nov 24",
+      "topic": "Savings Challenge Tracker $4.99",
+      "folder": "02_tue24_savings_challenge",
+      "dueAtRequested": "2026-11-24T12:00:00-05:00",
+      "dueAtET": "2026-11-24 12:00 PM ET",
+      "product": "Savings Challenge Tracker",
+      "price": "$4.99",
+      "listing": "https://www.etsy.com/listing/4617057350",
+      "hook": "Four savings challenges. One spreadsheet.",
+      "assetCount": 6,
+      "scheduleNow": false,
+      "captionPath": "02_tue24_savings_challenge/caption.txt",
+      "pin": {
+        "image": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/02_tue24_savings_challenge/pin/pin.png",
+        "copyPath": "02_tue24_savings_challenge/pin/copy.txt"
+      },
+      "instagramAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/02_tue24_savings_challenge/ig/0N.png",
+      "tiktokAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/02_tue24_savings_challenge/tt/0N.png",
+      "caption": "Four savings challenges. One spreadsheet.\n\nI built a Savings Challenge Tracker for Budget Harbor Co so you can pick the challenge that fits your budget \u2014 or run a few at once.\n\n\u2022 52-week challenge: choose a start date, a week-1 amount, and a style (increasing, decreasing, or the same every week)\n\u2022 $10K / 100-envelope challenge, scaled to your goal, or the classic $1\u2013$100 version\n\u2022 No-spend calendar, with a monthly no-spend percentage\n\u2022 Up to 8 custom goals with targets, deadlines, and monthly deposits\n\u2022 A dashboard that puts every challenge side by side\n\n$4.99. Google Sheets + Excel. No macros. Instant download. Example data included. This is a tracker for the plan you choose, not a promise you'll hit a set amount.\n\nLink in bio, or search Budget Harbor Co on Etsy.\n\n#BudgetHarborCo #SavingsChallenge #52WeekChallenge #NoSpend #GoogleSheets #ExcelTemplate #SavingsTracker #EtsyShop"
+    },
+    {
+      "day": "Wed Nov 25",
+      "topic": "Bill Tracker $4.99",
+      "folder": "03_wed25_bill_tracker",
+      "dueAtRequested": "2026-11-25T12:00:00-05:00",
+      "dueAtET": "2026-11-25 12:00 PM ET",
+      "product": "Bill Tracker & Calendar",
+      "price": "$4.99",
+      "listing": "https://www.etsy.com/listing/4617050273",
+      "hook": "See every bill in one place.",
+      "assetCount": 6,
+      "scheduleNow": false,
+      "captionPath": "03_wed25_bill_tracker/caption.txt",
+      "pin": {
+        "image": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/03_wed25_bill_tracker/pin/pin.png",
+        "copyPath": "03_wed25_bill_tracker/pin/copy.txt"
+      },
+      "instagramAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/03_wed25_bill_tracker/ig/0N.png",
+      "tiktokAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/03_wed25_bill_tracker/tt/0N.png",
+      "caption": "See every bill in one place.\n\nThe Bill Tracker from Budget Harbor Co keeps the list, the calendar, and the paid check-offs together.\n\nUp to 40 bills with amount, due day, frequency (monthly, quarterly, semiannual, annual), autopay, and account. Next due date, days left, and \u201cpay soon\u201d alerts are automatic, plus the monthly equivalent and yearly cost of each bill. Pick any month and see what's due, then check off payments across 12 months. A dashboard shows monthly and yearly totals, bills due in the next 7 days, and yearly cost by category.\n\n$4.99. Google Sheets + Excel. No macros. Instant download. Example data included.\n\nLink in bio, or search Budget Harbor Co on Etsy.\n\n#BudgetHarborCo #BillTracker #BillCalendar #MonthlyBills #GoogleSheets #ExcelTemplate #BudgetPlanner #EtsyShop"
+    },
+    {
+      "day": "Thu Nov 26",
+      "topic": "Couples & Family Budget $7.99 (Thanksgiving)",
+      "folder": "04_thu26_couples_family",
+      "dueAtRequested": "2026-11-26T12:00:00-05:00",
+      "dueAtET": "2026-11-26 12:00 PM ET",
+      "product": "Couples & Family Budget",
+      "price": "$7.99",
+      "listing": "https://www.etsy.com/listing/4617050965",
+      "hook": "One budget that works for two.",
+      "assetCount": 6,
+      "scheduleNow": false,
+      "captionPath": "04_thu26_couples_family/caption.txt",
+      "pin": {
+        "image": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/04_thu26_couples_family/pin/pin.png",
+        "copyPath": "04_thu26_couples_family/pin/copy.txt"
+      },
+      "instagramAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/04_thu26_couples_family/ig/0N.png",
+      "tiktokAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/04_thu26_couples_family/tt/0N.png",
+      "caption": "One budget that works for two.\n\nThe Couples & Family Budget from Budget Harbor Co is one spreadsheet for both incomes, shared and personal spending, and a fair way to split the shared costs.\n\nChoose 50/50, proportional to income, or a custom percent. Budget up to 30 categories (shared or personal to one partner). Log each purchase with who paid and whether it was shared or personal. Settle Up shows what each of you should have paid, what you actually paid, and a plain-language \u201cwho owes whom\u201d line. There's also room for up to 10 joint goals.\n\n$7.99. Google Sheets + Excel. No macros. Instant download. Example data included. Works for a single household too.\n\nLink in bio, or search Budget Harbor Co on Etsy.\n\n#BudgetHarborCo #CouplesBudget #FamilyBudget #SharedExpenses #GoogleSheets #ExcelTemplate #HouseholdBudget #EtsyShop"
+    },
+    {
+      "day": "Fri Nov 27",
+      "topic": "Net Worth Tracker $5.99",
+      "folder": "05_fri27_net_worth",
+      "dueAtRequested": "2026-11-27T12:00:00-05:00",
+      "dueAtET": "2026-11-27 12:00 PM ET",
+      "product": "Net Worth Tracker",
+      "price": "$5.99",
+      "listing": "https://www.etsy.com/listing/4617050661",
+      "hook": "What you own minus what you owe.",
+      "assetCount": 6,
+      "scheduleNow": false,
+      "captionPath": "05_fri27_net_worth/caption.txt",
+      "pin": {
+        "image": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/05_fri27_net_worth/pin/pin.png",
+        "copyPath": "05_fri27_net_worth/pin/copy.txt"
+      },
+      "instagramAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/05_fri27_net_worth/ig/0N.png",
+      "tiktokAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/05_fri27_net_worth/tt/0N.png",
+      "caption": "What you own minus what you owe.\n\nThe Net Worth Tracker from Budget Harbor Co follows that number month by month so you can see the trend.\n\nUp to 20 assets and 15 debts, each with a type. A starting column plus 12 months; totals, net worth, and month-over-month change are automatic. The dashboard shows the latest net worth, change since the start, debt-to-asset ratio, a trend line, and an assets vs. debts chart. Optional: enter a goal and target date to see a simple straight-line target (not a forecast). An investments tab tracks holdings from prices you type in \u2014 nothing is pulled from the internet.\n\n$5.99. Google Sheets + Excel. No macros. Instant download. Example data included.\n\nLink in bio, or search Budget Harbor Co on Etsy.\n\n#BudgetHarborCo #NetWorth #WealthTracker #InvestmentTracker #GoogleSheets #ExcelTemplate #PersonalFinance #EtsyShop"
+    },
+    {
+      "day": "Sat Nov 28",
+      "topic": "Small Business Bundle $24.99 (vs $41.96) \u2014 leads with bookkeeping",
+      "folder": "06_sat28_small_business_bundle",
+      "dueAtRequested": "2026-11-28T12:00:00-05:00",
+      "dueAtET": "2026-11-28 12:00 PM ET",
+      "product": "Small Business Bundle",
+      "price": "$24.99",
+      "was": "$41.96",
+      "listing": "https://www.etsy.com/listing/4617060022",
+      "hook": "Four tools for a small business.",
+      "assetCount": 6,
+      "scheduleNow": false,
+      "note": "Includes bookkeeping, tax tracker, pricing calculator, and side hustle income tracker. Bookkeeping also sold alone at $14.99.",
+      "captionPath": "06_sat28_small_business_bundle/caption.txt",
+      "pin": {
+        "image": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/06_sat28_small_business_bundle/pin/pin.png",
+        "copyPath": "06_sat28_small_business_bundle/pin/copy.txt"
+      },
+      "instagramAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/06_sat28_small_business_bundle/ig/0N.png",
+      "tiktokAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/06_sat28_small_business_bundle/tt/0N.png",
+      "caption": "Four tools for a small business.\n\nThe Small Business Bundle from Budget Harbor Co is $24.99, versus $41.96 if you bought these four templates separately.\n\n1. Small Business Bookkeeping \u2014 income and expense logs, an automatic monthly P&L, a dashboard, and a Schedule C-style year-end summary\n2. Self-Employed Tax Tracker \u2014 deductions, mileage at IRS rates, home office, and quarterly estimated-tax planning\n3. Pricing Calculator for Etsy Sellers \u2014 materials, labor, overhead, and Etsy fees\n4. Side Hustle & Commission Income Tracker \u2014 income by source, expenses, and a tax set-aside\n\nTax figures are simplified planning estimates, not tax advice. The bookkeeping template is also sold on its own for $14.99.\n\n$24.99. Google Sheets + Excel. No macros. Instant download. Example data included.\n\nLink in bio, or search Budget Harbor Co on Etsy.\n\n#BudgetHarborCo #SmallBusiness #Bookkeeping #EtsySeller #GoogleSheets #ExcelTemplate #SelfEmployed #EtsyShop"
+    },
+    {
+      "day": "Sun Nov 29",
+      "topic": "Self-Employed Tax Tracker $12.99",
+      "folder": "07_sun29_self_employed_tax",
+      "dueAtRequested": "2026-11-29T12:00:00-05:00",
+      "dueAtET": "2026-11-29 12:00 PM ET",
+      "product": "Self-Employed Tax Tracker",
+      "price": "$12.99",
+      "listing": "https://www.etsy.com/listing/4617051585",
+      "hook": "Keep deductions in one place.",
+      "assetCount": 6,
+      "scheduleNow": false,
+      "note": "Captions and CTA state planning estimates, not tax advice.",
+      "captionPath": "07_sun29_self_employed_tax/caption.txt",
+      "pin": {
+        "image": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/07_sun29_self_employed_tax/pin/pin.png",
+        "copyPath": "07_sun29_self_employed_tax/pin/copy.txt"
+      },
+      "instagramAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/07_sun29_self_employed_tax/ig/0N.png",
+      "tiktokAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/07_sun29_self_employed_tax/tt/0N.png",
+      "caption": "Keep deductions in one place.\n\nThe Self-Employed Tax Tracker from Budget Harbor Co is for freelancers, 1099 contractors, and side hustlers who want deductions organized and a rough idea of what to set aside each quarter.\n\nLog income by client or platform and which 1099 you expect. Track deductions with a business-use percent (for mixed costs like a phone) and a receipt check. Mileage uses the IRS standard rate for that date (2026 rates, including the July 1 change, are pre-filled and editable). There's a home-office comparison and a quarterly-tax sheet with due dates, amounts paid, and what's left.\n\nAll tax figures are simplified planning estimates based on rates you choose. Not tax advice \u2014 confirm with a tax professional or irs.gov.\n\n$12.99. Google Sheets + Excel. No macros. Instant download. Example data included. Also in the $24.99 Small Business Bundle.\n\nLink in bio, or search Budget Harbor Co on Etsy.\n\n#BudgetHarborCo #SelfEmployed #TaxTracker #1099 #QuarterlyTaxes #GoogleSheets #ExcelTemplate #EtsyShop"
+    }
+  ],
+  "extraReadyDraft": {
+    "scheduleNow": false,
+    "folder": "08_ready_pricing_calculator",
+    "topic": "Pricing Calculator for Etsy Sellers $6.99",
+    "product": "Pricing Calculator for Etsy Sellers",
+    "price": "$6.99",
+    "listing": "https://www.etsy.com/listing/4617051915",
+    "hook": "Price it before you list it.",
+    "assetCount": 6,
+    "suggestedSlot": "First open weekday after week 2, or early December. Also mentioned in the Sat Nov 28 bundle post.",
+    "instagramAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/08_ready_pricing_calculator/ig/0N.png",
+    "tiktokAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/08_ready_pricing_calculator/tt/0N.png",
+    "captionPath": "08_ready_pricing_calculator/caption.txt",
+    "pin": {
+      "image": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/08_ready_pricing_calculator/pin/pin.png",
+      "copyPath": "08_ready_pricing_calculator/pin/copy.txt"
+    },
+    "caption": "Price it before you list it.\n\nThe Pricing Calculator for Etsy Sellers from Budget Harbor Co prices handmade products from real numbers: materials, your time, overhead, packaging, shipping, and Etsy fees.\n\nBuild a materials library (up to 60 supplies). Price a product with up to 12 materials, labor minutes, packaging, and shipping, and see wholesale, retail, target-margin, and break-even prices, every Etsy fee, and your profit and margin at the price you choose. Duplicate the tab for each product. There's also a 40-product price list, an Etsy fee calculator, and a simple inventory tab with reorder flags.\n\nFee defaults reflect Etsy's published US fees as of 2026; update them if Etsy changes them or your bank is outside the US.\n\n$6.99. Google Sheets + Excel. No macros. Instant download. Example data included. Also in the $24.99 Small Business Bundle.\n\nLink in bio, or search Budget Harbor Co on Etsy.\n\n#BudgetHarborCo #EtsySeller #PricingCalculator #EtsyFees #HandmadeBusiness #GoogleSheets #ExcelTemplate #EtsyShop"
+  },
+  "holdLateDecJan": {
+    "scheduleNow": false,
+    "holdUntil": "late December or early January 2027",
+    "folder": "hold_B2_new_year_reset",
+    "topic": "New Year Money Reset Bundle $16.99 (vs $28.95)",
+    "product": "New Year Money Reset Bundle",
+    "price": "$16.99",
+    "was": "$28.95",
+    "listing": "https://www.etsy.com/listing/4617059670",
+    "hook": "A fresh start for your money.",
+    "assetCount": 5,
+    "contents": [
+      "Savings Challenge Tracker",
+      "Bill Tracker & Bill Calendar",
+      "Net Worth Tracker",
+      "Couples & Family Budget",
+      "Sinking Funds & Savings Tracker"
+    ],
+    "instagramAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/hold_B2_new_year_reset/ig/0N.png",
+    "tiktokAssetsPattern": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/hold_B2_new_year_reset/tt/0N.png",
+    "captionPath": "hold_B2_new_year_reset/caption.txt",
+    "pin": {
+      "image": "https://raw.githubusercontent.com/carlos2b4/social-media-images/3ef4a4e8aa2bfa3ea968d4cc4011315f801db891/budget-harbor/week2/hold_B2_new_year_reset/pin/pin.png",
+      "copyPath": "hold_B2_new_year_reset/pin/copy.txt"
+    },
+    "caption": "A fresh start for your money.\n\nThe New Year Money Reset Bundle from Budget Harbor Co is $16.99, versus $28.95 if you bought these five templates separately.\n\n1. Savings Challenge Tracker\n2. Bill Tracker & Bill Calendar\n3. Net Worth Tracker\n4. Couples & Family Budget\n5. Sinking Funds & Savings Tracker\n\n$16.99. Google Sheets + Excel. No macros. Instant download. Example data included.\n\nLink in bio, or search Budget Harbor Co on Etsy.\n\n#BudgetHarborCo #NewYearBudget #BudgetBundle #SavingsChallenge #NetWorth #GoogleSheets #ExcelTemplate #EtsyShop"
+  },
+  "howToScheduleWeek2": {
+    "doNotScheduleUntil": "Week-1 posts have published and list_posts shows enough free scheduled slots (7 per channel for the full week, or schedule day by day as slots open).",
+    "create_post": {
+      "schedulingType": "automatic",
+      "mode": "customScheduled",
+      "instagramMetadata": {
+        "instagram": {
+          "type": "post",
+          "shouldShareToFeed": true
+        }
+      },
+      "tiktokMetadata": "omit unless needed",
+      "assetsShape": {
+        "image": {
+          "url": "<raw SHA url>",
+          "metadata": {
+            "altText": "<alt>"
+          }
+        }
+      }
+    },
+    "verify": "get_post: status scheduled, error null, correct dueAt, media attached",
+    "never": "Do not touch LinkedIn. Do not schedule hold_B2 in November."
+  },
+  "pinterest": {
+    "scheduled": false,
+    "note": "A 1000x1500 pin and pin/copy.txt (title, description, listing URL) exist in every post folder. Post manually or when a Pinterest channel is connected."
+  },
+  "caveats": [
+    "Hooks are distinct from week 1 Friday ('Christmas is not a surprise expense') and week 1 Saturday ('Don't wait until tax season starts').",
+    "New listings are regular price; no timed sale or code. Bundle posts use the standing list-vs-bundle comparison only.",
+    "EXAMPLE DATA badges on real sheet screenshots were left intact.",
+    "Tax posts state planning estimates, not tax advice.",
+    "LinkedIn was not queried or touched.",
+    "Week 2 and extra drafts were not scheduled, to leave 1 free slot per channel and respect the 10-post limit.",
+    "cursor-github MCP has no write tools; assets were pushed with gh as carlos2b4 to branch budget-harbor-week2. Not merged to main."
+  ]
+}
